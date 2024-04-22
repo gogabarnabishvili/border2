@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+section {
+    width: 357px;
+    height: 419px;
+    border: 1px solid #b4b4b4;
+}
+h2 {
+    font-size: 14px;
+}
+p {
+    font-size: 14px;
+    color: #808080;
+}
